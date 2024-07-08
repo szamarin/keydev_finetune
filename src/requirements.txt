@@ -1,0 +1,3 @@
+packaging 
+ninja
+-e ./axolotl[flash-attn,deepspeed]
